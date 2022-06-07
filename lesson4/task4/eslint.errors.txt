@@ -1,0 +1,6 @@
+no-var
+eqeqeq
+no-undef
+no-plusplus
+prettier/prettier
+no-return-assign
