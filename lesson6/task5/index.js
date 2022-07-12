@@ -1,7 +1,7 @@
 function createEmptyArray(len) {
-  const len = [ , , , , ];
+  var massiv = new Array(len);
   
-  
-  }
+  return massiv;
+}
 
 console.log(createEmptyArray());
