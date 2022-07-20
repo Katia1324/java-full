@@ -1,5 +1,5 @@
 export const getSquaredArray = (arr) => 
-    arr.filter((num) => num * num);
+    arr.map((num) => num * num);
 
 export const getOddNumbers = (arr) => 
     arr.filter((num) => (num % 2 === 1));
